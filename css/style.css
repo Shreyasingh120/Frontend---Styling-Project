@@ -7357,7 +7357,7 @@ h1, h2, h3, h4, h5,
     margin: 0; } }
 
 .colorlib-nav .top-menu {
-  padding: 50px 0 10px 0; }
+  padding: 7px 0 10px 0; }
   @media (max-width: 767.98px) {
     .colorlib-nav .top-menu {
       padding: 28px 0; } }
@@ -7408,7 +7408,7 @@ h1, h2, h3, h4, h5,
       margin-bottom: 10px; } }
   .colorlib-nav #colorlib-logo a {
     position: relative;
-    color: #595959; }
+    color: #464767; }
 
 .colorlib-nav .menu-1 {
   display: block; }
